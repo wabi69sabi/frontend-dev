@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a Website built with Jekyll, to accompany the Frontend
   Web Developer Course at OAK4. Students can find updates and
   Code Examples with links and other helpful resources here.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/frontend-dev" # the subpath of your site, e.g. /blog
+url: "https://wabi69sabi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wabi69sabi
 
 # Build settings
