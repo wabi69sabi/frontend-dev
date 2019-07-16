@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Web Developer Course at OAK4. Students can find updates and
   Code Examples with links and other helpful resources here.
 baseurl: "/frontend-dev" # the subpath of your site, e.g. /blog
-url: "https://wabi69sabi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wabi69sabi.github.io/frontend-dev/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wabi69sabi
 
 # Build settings
