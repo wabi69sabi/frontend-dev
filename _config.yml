@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Amazon Frontend Web Developer Course
+author: P. Teaches
 email: p.teaches.frontend@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a Website built with Jekyll, to accompany the Frontend
