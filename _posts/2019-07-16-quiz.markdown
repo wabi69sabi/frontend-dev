@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Some notes in regards to the quiz"
+date:   2019-07-16 01:18:00 -0700
+categories: course update
+---
+
+# Some Notes about the first Quiz
+
+Most tricky Question: 6
+
+Video for the *italic* and **bold** question was Chapter 02, video 5 'Use semantic Tags'
+
+The book mentioned this on page 126 and the Handout 'Hour 9 Adding Meaning with HTML5 Sectioning and Semantic Elements' by Jennifer Kyrnin mentions this on page 155 under 'HTML4 Elements'.
+
+{% highlight html %}
+<html>
+  <head>
+    < ... >
+  </head>
+  <body>
+    <strong>Bold Title</strong>
+    <em>Italic Text</em>
+  </body>
+</head>
+{% endhighlight %}
+
+Video for the Blockquote question was Chapter 06, video 04 'Add two types of quotations'
+
+The same Handout mentioned this briefly on page 149.
+
+{% highlight html %}
+<html>
+  <head>
+    < ... >
+  </head>
+  <body>
+    <blockquote cite="Rober A. Heinlein">
+      All cats are black after midnight.
+    </blockquote>
+
+    <q>To be or not to be.</q>
+  </body>
+</head>
+{% endhighlight %}
+
+This is a W3Schools [link](https://www.w3schools.com/TAGS/tag_blockquote.asp).

@@ -5,7 +5,6 @@ date:   2019-07-15 07:10:00 -0700
 categories: course update
 youtubeId: wmAP2xvNs08
 youtubeId2: NZEz4yNITd8
-
 ---
 During Prime Week we are covering Chapters 09 and 10 in our textbooks.
 
