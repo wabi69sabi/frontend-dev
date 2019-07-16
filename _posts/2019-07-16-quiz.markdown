@@ -9,9 +9,9 @@ categories: course update
 
 Most tricky Question: 6
 
-Video for the *italic* and **bold** question was Chapter 02, video 5 'Use semantic Tags'
+Video for the *italic* and **bold** question was Chapter 02, video 5 ```Use semantic Tags```
 
-The book mentioned this on page 126 and the Handout 'Hour 9 Adding Meaning with HTML5 Sectioning and Semantic Elements' by Jennifer Kyrnin mentions this on page 155 under 'HTML4 Elements'.
+The book mentioned this on page 126 and the Handout ```Hour 9 Adding Meaning with HTML5 Sectioning and Semantic Elements``` by Jennifer Kyrnin mentions this on page 155 under ```HTML4 Elements```.
 
 {% highlight html %}
 <html>
@@ -25,7 +25,7 @@ The book mentioned this on page 126 and the Handout 'Hour 9 Adding Meaning with 
 </head>
 {% endhighlight %}
 
-Video for the Blockquote question was Chapter 06, video 04 'Add two types of quotations'
+Video for the Blockquote question was Chapter 06, video 04 ```Add two types of quotations```
 
 The same Handout mentioned this briefly on page 149.
 
