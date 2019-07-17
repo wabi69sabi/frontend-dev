@@ -45,3 +45,21 @@ The same Handout mentioned this briefly on page 149.
 {% endhighlight %}
 
 This is a W3Schools [link](https://www.w3schools.com/TAGS/tag_blockquote.asp).
+
+### Additional Links
+
+#### Semantics in HTML5
+
+[FreeCodeCamp](https://guide.freecodecamp.org/html/html5-semantic-elements)
+
+[BitDegree](https://www.bitdegree.org/learn/html5-semantic-tags)
+
+[InternetIsHARD](https://internetingishard.com/html-and-css/semantic-html/)
+
+[W3Docs](https://www.w3docs.com/learn-html/semantic-elements-in-html5.html)
+
+#### Tables
+
+[Udemy Blog](https://blog.udemy.com/html5-tables/)
+
+[W3 Schools](https://www.w3schools.com/html/html_tables.asp)
