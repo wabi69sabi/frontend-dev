@@ -26,3 +26,11 @@ Here is a link to the [previous example](https://github.com/wabi69sabi/fronted-c
 
 {% include youtubePlayer.html id=page.youtubeId %}
 {% include youtubePlayer.html id=page.youtubeId2 %}
+
+## Some reference Links to help with positioning
+
+[MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+
+[BarelyFitz designs](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
+
+[W3 Schools](https://www.w3schools.com/cssref/pr_class_position.asp)
