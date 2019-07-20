@@ -17,9 +17,9 @@ In order to create an imagemap these resources are always required:
 
 - an image
 
-- an HTML 'map' tag
+- an HTML ```<map>``` tag
 
-- at least one HTML 'area' tag
+- at least one HTML ```<area>``` tag
 
 Each one of these tags has severeal attributes that need to be filled out.
 
