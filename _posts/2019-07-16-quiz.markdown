@@ -63,3 +63,21 @@ This is a W3Schools [link](https://www.w3schools.com/TAGS/tag_blockquote.asp).
 [Udemy Blog](https://blog.udemy.com/html5-tables/)
 
 [W3 Schools](https://www.w3schools.com/html/html_tables.asp)
+
+# Answers
+
+1. C
+2. A
+3. C
+4. B
+5. D
+6. B
+7. D
+8. C
+9. A
+10. D
+11. A
+12. B
+13. B
+14. C
+15. A
