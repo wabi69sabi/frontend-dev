@@ -7,9 +7,8 @@ categories: course update
 
 # Fun with HTML5, CSS and JavaScript
 
-Our fellow student and CSS/JS coding wizard Pardeep is currently hosting [this](http://107.208.190.78) impressive portfolio piece
-
-on his home system to showcase and improve his skills.
+Our fellow student and CSS/JS coding wizard Pardeep is currently hosting [this](http://107.208.190.78)
+impressive portfolio piece on his home system to showcase and improve his skills.
 
 ## Challenge
 
