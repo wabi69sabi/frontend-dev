@@ -24,3 +24,13 @@ console.log(square(3))
 ```
 
 If anyone does feel the need at this point to explore the console more, there is a way to unlock UNIX and LINUX console commands in Windows 10 with the Bash Shell. [This](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) is a guide that explains how to get a Linux command shell in Windows 10. I personally recommend the Ubuntu version for everyone not experienced with Linux yet, and of course any flavor for people who have experience and understand the difference.
+
+## Browser based Playgrounds
+
+Here is a list of cool browser based playgrounds to learn and experiment with JavaScript in:
+
+* [JS Fiddle](https://jsfiddle.net) - use the 'CSS Grid' boilerplate to play with some liquid layouts
+* [Code Pen](https://codepen.io)
+* [CSS Deck](http://cssdeck.com)
+* [JS bin](https://jsbin.com)
+* [Repl it](https://repl.it/)
