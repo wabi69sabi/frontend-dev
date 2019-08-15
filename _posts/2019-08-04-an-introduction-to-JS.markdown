@@ -17,10 +17,10 @@ Some of our first examples are going to look a lot like this:
 
 ``` javascript
 function square(x) {
-    return (x * x)
+    return (x * x);
 }
 
-console.log(square(3))
+console.log(square(3));
 ```
 
 If anyone does feel the need at this point to explore the console more, there is a way to unlock UNIX and LINUX console commands in Windows 10 with the Bash Shell. [This](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) is a guide that explains how to get a Linux command shell in Windows 10. I personally recommend the Ubuntu version for everyone not experienced with Linux yet, and of course any flavor for people who have experience and understand the difference.
