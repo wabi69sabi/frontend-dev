@@ -29,3 +29,7 @@ On the microsoft homepage there is a [link](https://www.microsoft.com/en-US/lear
 # How can you prepare for the MTA98-375?
 
 There are many resources online that can help in addition to the course, but there is a very good video series on YouTube, of which [this](https://www.youtube.com/watch?v=KoeHaM8ngFM) is the first video.
+
+# Downloads (PDFs)
+
+* [Students Study Guide](/frontend-dev/assets/pdf/study_guide.pdf)
