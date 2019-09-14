@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "JQuery references and examples"
+date:   2019-09-13 11:05:00 -0700
+categories: course update
+---
+
+### JQuery
+
+As we have learned, JQuery is a JavaScript library that allows us to (quote) "write less, do more" (end quote).
+
+A good reference to understand what that means and to get started with JQuery can be found [here](https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery).
+
+The official home of JQuery, which at the time of writing this blogpost is about 13 years old and is currently at version 3.4.1 (released May 1st, 2019), can be found [here](https://api.jquery.com/).
+
+The home of JQuery UI, which is essentially a suite of JQuery tools tailored to UI specific tasks, can be found [here](https://jqueryui.com/).
+
+There is also [JQuery mobile](https://jquerymobile.com/) which is optimized for touch based applications.
+
+For learning JQuery there is an official [portal](https://learn.jquery.com/) with lots of resources. In addition to this, [W3schools](https://www.w3schools.com/jquery/default.asp) has a tutorial and a page with a [list](https://www.w3schools.com/jquery/jquery_ref_selectors.asp) of selectors.
+
+That should be all the tools you need to start using JQuery.
