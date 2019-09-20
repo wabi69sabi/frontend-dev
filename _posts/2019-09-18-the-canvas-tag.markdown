@@ -39,3 +39,5 @@ ctx.strokeRect(20, 20, 150, 100);
 ```
 
 The source of this code snippet can be found [here](https://www.w3schools.com/tags/canvas_strokerect.asp).
+
+[This](https://www.quackit.com/html_5/tags/html_canvas_tag.cfm) is an additional playground for the canvas tag.
