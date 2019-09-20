@@ -27,3 +27,15 @@ Some Helpful links regarding the Canvas tag can be found here:
 * [W3 Schools updated](https://www.w3schools.com/html/html5_canvas.asp)
 * [HTML dot com](https://html.com/tags/canvas/)
 * [HTML Canvas Tutorials](https://www.html5canvastutorials.com/tutorials/html5-canvas-element/)
+
+# Special mention of the strokeRect() Method
+
+This will draw a rectangle in a canvas tag with JavaScript
+
+```javascript
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.strokeRect(20, 20, 150, 100);
+```
+
+The source of this code snippet can be found [here](https://www.w3schools.com/tags/canvas_strokerect.asp).
