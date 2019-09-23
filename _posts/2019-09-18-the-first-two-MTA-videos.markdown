@@ -3,8 +3,8 @@ layout: post
 title:  "The first and second video for the MTA exam"
 date:   2019-09-18 07:04:00 -0700
 categories: course update
-youtubeId: hQwUEsYjsjM
-youtubeId2: TIFGx9fxZDc
+youtubeId: KoeHaM8ngFM
+youtubeId2: INKGzeat0Rw
 ---
 
 ### The MTA exam
