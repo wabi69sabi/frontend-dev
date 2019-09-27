@@ -23,7 +23,7 @@ The final Quiz was administered on Friday September 20th, and it covered a combi
 10. b ( { columns: auto 30em; } ) --> Lesson 5 of the white folder
 11. d (3 rows and 3 columns)  --> Covered in Chapter 6 of the course book
 12. c (overflow: scroll;) --> See Chapter 10 page 281 of the course book
-13. d (inset) --> Lesson 7 pages 161 - 163 of the white folder
+13. d (spread) --> Lesson 7 pages 161 - 163 of the white folder
 14. b (transform: translate(150px, 100px))  --> Lesson 7 pages 167 - 174
 15. c (alert('You clicked the button')) --> Covered in Chapter 14 (for example) on page 354, but also in Chapter 19 a lot and other places
 16. a (onLoad)  --> Covered in Chapter 19 page 477
