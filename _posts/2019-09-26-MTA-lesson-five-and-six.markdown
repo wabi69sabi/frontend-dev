@@ -38,3 +38,6 @@ And:
 * [CSS Tricks Columns](https://css-tricks.com/almanac/properties/c/columns/)
 * [CSS Tricks Responsive Columns](https://css-tricks.com/guide-responsive-friendly-css-columns/)
 * [CSS Tricks Multiple Columns](https://css-tricks.com/snippets/css/multiple-columns/)
+
+# Additional MS FlexBox
+ [Magic Link](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/dev-guides/hh673531(v=vs.85)?redirectedfrom=MSDN)
