@@ -39,5 +39,6 @@ And:
 * [CSS Tricks Responsive Columns](https://css-tricks.com/guide-responsive-friendly-css-columns/)
 * [CSS Tricks Multiple Columns](https://css-tricks.com/snippets/css/multiple-columns/)
 
-# Additional MS FlexBox Link
- [Magic Link](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/dev-guides/hh673531(v=vs.85)?redirectedfrom=MSDN)
+# Additional MS Links
+* [Magic FlexBox Link](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/dev-guides/hh673531(v=vs.85)?redirectedfrom=MSDN)
+* [Magic Grid Layout Link](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/dev-guides/hh673533(v=vs.85)?redirectedfrom=MSDN)
