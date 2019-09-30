@@ -20,7 +20,8 @@ Some of these issues were:
 * Windows Play Store related issues
   * details on how to package apps for the playstore
   * details on the process of publishing to the playstore
-
+* What is ['Tombstoning'?](https://www.quora.com/What-is-tombstoning-in-the-context-of-mobile-application-development)
+* Advanced Features such as [Geolocation](https://docs.microsoft.com/en-us/uwp/api/Windows.Devices.Geolocation), messaging and such
 
 # Some positive news about the MTA 98-375
 
