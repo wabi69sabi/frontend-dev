@@ -22,6 +22,8 @@ Some of these issues were:
   * details on the process of publishing to the playstore
 * What is ['Tombstoning'?](https://www.quora.com/What-is-tombstoning-in-the-context-of-mobile-application-development)
 * Advanced Features such as [Geolocation](https://docs.microsoft.com/en-us/uwp/api/Windows.Devices.Geolocation), messaging and such
+* The HTML5 [\<details\> tag](https://www.quackit.com/html_5/tags/html_details_tag.cfm), [second Link](https://www.w3schools.com/TAGS/tag_details.asp)
+* The Window [.requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 
 # Some positive news about the MTA 98-375
 
