@@ -51,7 +51,7 @@ I recommend to visit all of these and create a profile with an up to date resume
 
 #### IN ADDITION:
 
-Update your [LinkedIN](https://www.linkedin.com/) and tag people that you now and are relevant to your field (other developers perhaps). Also have people endorse your skills if they know you and take challenges and get badges if possible.
+Update your [LinkedIN](https://www.linkedin.com/) and tag people that you know and are relevant to your field (other developers perhaps). Also have people endorse your skills if they know you and take challenges and get badges if possible.
 
 Some great pages to show of skills are:
 
