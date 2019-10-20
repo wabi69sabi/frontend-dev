@@ -49,9 +49,9 @@ These are some of the sites that I have been using that have a lot of good resou
 
 I recommend to visit all of these and create a profile with an up to date resume. Also when looking for particular jobs it is always a good idea to have a nice cover letter on hand. Store these on your cell phone so you can send them out on the fly.
 
-IN ADDITION:
+#### IN ADDITION:
 
-Update your LinkedIN and tag people that you now and are relevant to your field (other developers perhaps). Also have people endorse your skills if they know you and take challenges and get badges if possible.
+Update your [LinkedIN](https://www.linkedin.com/) and tag people that you now and are relevant to your field (other developers perhaps). Also have people endorse your skills if they know you and take challenges and get badges if possible.
 
 Some great pages to show of skills are:
 
